@@ -1,0 +1,7 @@
+.venv/
+work/
+out/
+logs/
+data/*.npy
+data/land-polygons-split-3857/
+data/dem/
